@@ -47,3 +47,11 @@ Making patterns and tilings is instructive, beautiful, and just plain fun.
 [![Tiling](assets/tiling_small.png)](assets/tiling.png)
 
 ### Price Charts using Kotlin
+
+I wanted to know how hard it is to write a live view of a price chart that updates in real time.
+I used Kotlin Multiplatform to write a desktop application that does just that.
+It uses API access to Binance and can display the price chart of any cryptocurrency.
+While most applications that do that rely on Electron, I wanted to try how performant you can
+make a desktop application with Kotlin Multiplatform.
+
+[![Price Chart](assets/charting_small.png)](assets/charting.png)
