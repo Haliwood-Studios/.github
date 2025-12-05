@@ -6,5 +6,5 @@ If you're interested, come check out
 
 [Halirutan on Twitch](https://www.twitch.tv/halirutan).
 
-![PC](assets/pc_03.png)
-![Ronaldo](assets/ronaldo_ruin.png)
+![PC](assets/test.png)
+![Ronaldo](assets/test.png)
