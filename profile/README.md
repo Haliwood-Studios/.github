@@ -5,13 +5,14 @@ Most of this stuff gets built in my free time or during live streams on Twitch. 
 
 * [Halirutan on Twitch](https://www.twitch.tv/halirutan)
 
-While all repositories will eventually be public, initially they will only be visible to
+**A heads-up:** Everything here will eventually be public, but new repos start out visible only to
 [my sponsors](https://github.com/sponsors/halirutan).
+It's a little thank-you for their support while I'm getting things ready to share with everyone.
 
 ## What are we working on?
 
-Right now, this place is mostly empty, but I've got a bunch of ideas and honestly, the sky's the limit.
-Here are some of the things I'm tinkering with and that we could bring to a state where they're worth sharing:
+Right now this place is pretty empty, but I've got a bunch of ideas and honestly, the sky's the limit.
+Here are some of the things I'm tinkering with that we could polish up and make worth sharing:
 
 ### Creating Optical Illusions
 
@@ -48,10 +49,10 @@ Making patterns and tilings is instructive, beautiful, and just plain fun.
 
 ### Price Charts using Kotlin
 
-I wanted to know how hard it is to write a live view of a price chart that updates in real time.
-I used Kotlin Multiplatform to write a desktop application that does just that.
-It uses API access to Binance and can display the price chart of any cryptocurrency.
-While most applications that do that rely on Electron, I wanted to try how performant you can
-make a desktop application with Kotlin Multiplatform.
+I wanted to see how hard it is to build a live price chart that updates in real time.
+Used Kotlin Multiplatform to make a desktop app that does exactly that: 
+it connects to the Binance API and can display price charts for any cryptocurrency.
+While most apps like this rely on Electron, I wanted to see how performant you can make a desktop app
+with Kotlin Multiplatform.
 
 [![Price Chart](assets/charting_small.png)](assets/charting.png)
