@@ -26,8 +26,8 @@ One such example are "Squint Images" that reveal a hidden image when you squint 
 
 ### Solving Puzzles
 
-![![NiftyFifty1](assets/puzzle_photo.jpg)](assets/puzzle_photo_small.jpg)
-![![NFSolution](assets/puzzle.png)](assets/puzzle_small.png)
+![[NiftyFifty1](assets/puzzle_photo.jpg)](assets/puzzle_photo_small.jpg)
+![[NFSolution](assets/puzzle.png)](assets/puzzle_small.png)
 
 ### Price Charts using Kotlin
 
